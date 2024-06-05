@@ -1,7 +1,12 @@
-# webtoon_dataset
+# Naver Webtoon Split
 네이버 웹툰 크롤링 &amp; 이미지 편집 &amp; 레이블링
 * 네이버 웹툰은 이미지 크롤링이 가능
 * 
+
+# How to start
+* resource에 example을 참고하여 데이터 추가
+* split.ipynb 코드 수행
+* resource에는 webtoon image 뿐만 아니라 csv 파일로 회차 정보가 있어야 한다.
 
 # Crawling
 * 각각의 컷이 일정한 길이로 분할된다.
